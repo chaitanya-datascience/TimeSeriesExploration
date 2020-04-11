@@ -1,2 +1,2 @@
 # TimeSeriesExploration
-understand your multivariate time series 
+Understand your multivariate time series 
